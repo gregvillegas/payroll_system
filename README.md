@@ -1,7 +1,7 @@
 
-# Bayani Core: Django Implementation Blueprint
+# MI Core: Django Implementation Blueprint
 
-This document outlines the core Django architecture for the Bayani Core Payroll & Attendance system, designed for integration with Hikvision DS-K1T671MF terminals and compliance with Philippine Labor Laws (RA 10173, etc.).
+This document outlines the core Django architecture for the MI Core Payroll & Attendance system, designed for integration with Hikvision DS-K1T671MF terminals and compliance with Philippine Labor Laws (RA 10173, etc.).
 
 ## 1. Project Structure
 ```text
